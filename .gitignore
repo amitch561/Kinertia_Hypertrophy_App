@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/project settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+
+# Optional test coverage
+coverage/
+
+# Supabase 
+.supabase/
+
+# GitHub workflows 
+.github/
+
+# Dependency locks
+package-lock.json
+yarn.lock
