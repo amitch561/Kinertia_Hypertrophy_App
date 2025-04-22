@@ -1,0 +1,54 @@
+[
+  {
+    "id": "glutes_1",
+    "name": "Deep Barbell Squat",
+    "muscleGroup": "Glutes",
+    "equipment": ["barbell", "squat rack"],
+    "description": "Full depth squat focusing on glutes",
+    "tips": ["Break at hips first", "Full depth", "Drive through heels"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Glute maximus"
+  },
+  {
+    "id": "glutes_2",
+    "name": "Cable Pull-Through",
+    "muscleGroup": "Glutes",
+    "equipment": ["cable machine"],
+    "description": "Cable hip extension movement",
+    "tips": ["Hinge at hips", "Keep back straight", "Squeeze glutes"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Glute maximus"
+  },
+  {
+    "id": "glutes_3",
+    "name": "Hip Thrust",
+    "muscleGroup": "Glutes",
+    "equipment": ["barbell", "bench"],
+    "description": "Hip extension movement with back elevated",
+    "tips": ["Keep chin tucked", "Full hip extension", "Squeeze at top"],
+    "exerciseType": "compound",
+    "subGroupId": "Glute maximus"
+  },
+  {
+    "id": "glutes_4",
+    "name": "Bulgarian Split Squat",
+    "muscleGroup": "Glutes",
+    "equipment": ["dumbbell", "bench"],
+    "description": "Split squat with rear foot elevated",
+    "tips": ["Control descent", "Keep front knee tracking", "Drive through heel"],
+    "exerciseType": "compound",
+    "subGroupId": "Glute maximus"
+  },
+  {
+    "id": "glutes_5",
+    "name": "45° Back Extension",
+    "muscleGroup": "Glutes",
+    "equipment": ["back extension bench"],
+    "description": "Back extension focusing on glutes",
+    "tips": ["Squeeze glutes", "Control movement", "Don't hyperextend"],
+    "exerciseType": "isolation",
+    "subGroupId": "Glute maximus"
+  }
+]

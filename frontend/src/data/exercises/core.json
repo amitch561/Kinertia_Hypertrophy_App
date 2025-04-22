@@ -1,0 +1,158 @@
+[
+  {
+    "id": "core_upper_1",
+    "name": "Swiss-Ball Crunch",
+    "muscleGroup": "Core",
+    "equipment": ["swiss ball"],
+    "description": "Crunch movement on stability ball",
+    "tips": ["Control movement", "Feel the stretch", "Focus on upper abs"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Upper abs"
+  },
+  {
+    "id": "core_upper_2",
+    "name": "Cable Crunch",
+    "muscleGroup": "Core",
+    "equipment": ["cable machine"],
+    "description": "Weighted crunch using cable machine",
+    "tips": ["Keep hips still", "Control movement", "Full range"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Upper abs"
+  },
+  {
+    "id": "core_upper_3",
+    "name": "Decline Crunch",
+    "muscleGroup": "Core",
+    "equipment": ["decline bench"],
+    "description": "Crunch on decline bench",
+    "tips": ["Control movement", "Keep lower back pressed", "Focus on form"],
+    "exerciseType": "isolation",
+    "subGroupId": "Upper abs"
+  },
+  {
+    "id": "core_upper_4",
+    "name": "Weighted Crunch",
+    "muscleGroup": "Core",
+    "equipment": ["weight plate", "dumbbell"],
+    "description": "Crunch holding weight",
+    "tips": ["Control movement", "Keep neck neutral", "Focus on abs"],
+    "exerciseType": "isolation",
+    "subGroupId": "Upper abs"
+  },
+  {
+    "id": "core_upper_5",
+    "name": "Machine Crunch",
+    "muscleGroup": "Core",
+    "equipment": ["ab machine"],
+    "description": "Crunch using machine",
+    "tips": ["Control movement", "Full range", "Focus on contraction"],
+    "exerciseType": "isolation",
+    "subGroupId": "Upper abs"
+  },
+  {
+    "id": "core_lower_1",
+    "name": "Hanging Leg Raise",
+    "muscleGroup": "Core",
+    "equipment": ["pull-up bar"],
+    "description": "Raise legs while hanging",
+    "tips": ["Control movement", "Keep legs straight", "No swinging"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lower abs"
+  },
+  {
+    "id": "core_lower_2",
+    "name": "Reverse Crunch",
+    "muscleGroup": "Core",
+    "equipment": ["bodyweight"],
+    "description": "Crunch bringing hips off ground",
+    "tips": ["Control movement", "Roll hips up", "Keep upper body still"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lower abs"
+  },
+  {
+    "id": "core_lower_3",
+    "name": "Decline Reverse Crunch",
+    "muscleGroup": "Core",
+    "equipment": ["decline bench"],
+    "description": "Reverse crunch on decline",
+    "tips": ["Control movement", "Full range", "Keep upper body still"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lower abs"
+  },
+  {
+    "id": "core_lower_4",
+    "name": "Garhammer Raise",
+    "muscleGroup": "Core",
+    "equipment": ["dip station"],
+    "description": "Knee raise variation",
+    "tips": ["Control movement", "Keep upper body still", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lower abs"
+  },
+  {
+    "id": "core_lower_5",
+    "name": "L-Sit",
+    "muscleGroup": "Core",
+    "equipment": ["parallel bars", "floor"],
+    "description": "Hold legs parallel to ground",
+    "tips": ["Keep legs straight", "Maintain position", "Build duration"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lower abs"
+  },
+  {
+    "id": "core_obliques_1",
+    "name": "Cable Woodchop",
+    "muscleGroup": "Core",
+    "equipment": ["cable machine"],
+    "description": "Diagonal chopping motion",
+    "tips": ["Control movement", "Rotate from core", "Keep arms straight"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Obliques"
+  },
+  {
+    "id": "core_obliques_2",
+    "name": "Landmine Twist",
+    "muscleGroup": "Core",
+    "equipment": ["landmine", "barbell"],
+    "description": "Rotation using landmine",
+    "tips": ["Control movement", "Keep arms straight", "Rotate from core"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Obliques"
+  },
+  {
+    "id": "core_obliques_3",
+    "name": "Russian Twist",
+    "muscleGroup": "Core",
+    "equipment": ["weight plate", "dumbbell"],
+    "description": "Seated rotation exercise",
+    "tips": ["Control movement", "Keep chest up", "Full rotation"],
+    "exerciseType": "isolation",
+    "subGroupId": "Obliques"
+  },
+  {
+    "id": "core_obliques_4",
+    "name": "Side Plank Hip Lift",
+    "muscleGroup": "Core",
+    "equipment": ["bodyweight"],
+    "description": "Hip raise in side plank",
+    "tips": ["Control movement", "Keep body aligned", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Obliques"
+  },
+  {
+    "id": "core_obliques_5",
+    "name": "Dumbbell Side Bend",
+    "muscleGroup": "Core",
+    "equipment": ["dumbbell"],
+    "description": "Lateral flexion with weight",
+    "tips": ["Control movement", "Keep hips still", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Obliques"
+  }
+]

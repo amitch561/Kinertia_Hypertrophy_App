@@ -1,0 +1,111 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 7%;
+    --foreground: 0 0% 98%;
+
+    --card: 0 0% 10%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 0 0% 10%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 24 100% 56%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 16%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 0 0% 16%;
+    --muted-foreground: 0 0% 65%;
+
+    --accent: 24 100% 56%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 24 100% 56%;
+
+    --radius: 0.75rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+.gradient-bg {
+  background: linear-gradient(135deg, #E65A00 0%, #FF7A22 100%);
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #E65A00 0%, #FF7A22 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.exercise-card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.exercise-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px -5px rgba(255, 122, 34, 0.2);
+}
+
+.calendar-day {
+  transition: transform 0.1s ease;
+}
+
+.calendar-day:hover {
+  transform: scale(1.05);
+}
+
+.calendar-day.completed {
+  background: linear-gradient(135deg, rgba(255, 122, 34, 0.2) 0%, rgba(230, 90, 0, 0.2) 100%);
+  border-color: #FF7A22;
+}
+
+.select-content {
+  @apply bg-neutral dark:bg-neutral-light border border-neutral-light shadow-lg;
+}
+
+.select-item {
+  @apply font-medium text-foreground hover:bg-neutral-light py-2 px-3 cursor-pointer;
+}
+
+.select-trigger {
+  @apply bg-neutral dark:bg-neutral-light border border-neutral-light text-foreground hover:bg-neutral-light transition-colors;
+}
+
+/* Progress ring animation */
+.progress-ring-bg {
+  stroke: #2A2A2A;
+  fill: none;
+  stroke-width: 8;
+}
+
+.progress-ring-circle {
+  stroke: #FF7A22;
+  fill: none;
+  stroke-width: 8;
+  stroke-linecap: round;
+  transform-origin: 50% 50%;
+  transform: rotate(-90deg);
+  transition: stroke-dashoffset 0.5s ease;
+}

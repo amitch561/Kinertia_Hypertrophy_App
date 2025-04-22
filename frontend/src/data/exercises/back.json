@@ -1,0 +1,158 @@
+[
+  {
+    "id": "back_lats_1",
+    "name": "Single-Arm Lat Pulldown",
+    "muscleGroup": "Back",
+    "equipment": ["cable machine"],
+    "description": "One-arm lat pulldown focusing on full range of motion",
+    "tips": ["Full stretch at top", "Control the movement", "Focus on lat contraction"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lats"
+  },
+  {
+    "id": "back_lats_2",
+    "name": "Cable Pullover",
+    "muscleGroup": "Back",
+    "equipment": ["cable machine"],
+    "description": "Pullover movement using cable machine",
+    "tips": ["Keep arms slightly bent", "Focus on stretch", "Control throughout"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lats"
+  },
+  {
+    "id": "back_lats_3",
+    "name": "Neutral-Grip Pull-Up",
+    "muscleGroup": "Back",
+    "equipment": ["pull-up bar"],
+    "description": "Pull-ups using neutral (parallel) grip",
+    "tips": ["Control descent", "Full range of motion", "Engage lats"],
+    "exerciseType": "compound",
+    "subGroupId": "Lats"
+  },
+  {
+    "id": "back_lats_4",
+    "name": "Meadows Row",
+    "muscleGroup": "Back",
+    "equipment": ["barbell", "landmine"],
+    "description": "Single-arm row using landmine attachment",
+    "tips": ["Keep core tight", "Control the weight", "Full range of motion"],
+    "exerciseType": "compound",
+    "subGroupId": "Lats"
+  },
+  {
+    "id": "back_lats_5",
+    "name": "DB Row (elbow tight)",
+    "muscleGroup": "Back",
+    "equipment": ["dumbbell"],
+    "description": "Dumbbell row keeping elbow close to body",
+    "tips": ["Keep elbow in", "Control movement", "Full range of motion"],
+    "exerciseType": "compound",
+    "subGroupId": "Lats"
+  },
+  {
+    "id": "back_upper_1",
+    "name": "Chest-Supported T-Bar Row",
+    "muscleGroup": "Back",
+    "equipment": ["t-bar row machine"],
+    "description": "Row while chest is supported",
+    "tips": ["Keep chest supported", "Control movement", "Squeeze shoulder blades"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Middle"
+  },
+  {
+    "id": "back_upper_2",
+    "name": "Seated Cable Row (allow protraction)",
+    "muscleGroup": "Back",
+    "equipment": ["cable machine"],
+    "description": "Seated row with emphasis on scapular movement",
+    "tips": ["Allow shoulder blades to move", "Control movement", "Full range"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Middle"
+  },
+  {
+    "id": "back_upper_3",
+    "name": "Barbell Bent-Over Row",
+    "muscleGroup": "Back",
+    "equipment": ["barbell"],
+    "description": "Classic bent over barbell row",
+    "tips": ["Hinge at hips", "Keep back straight", "Control the weight"],
+    "exerciseType": "compound",
+    "subGroupId": "Middle"
+  },
+  {
+    "id": "back_upper_4",
+    "name": "Face Pull",
+    "muscleGroup": "Back",
+    "equipment": ["cable machine", "rope attachment"],
+    "description": "Pull rope attachment to face level",
+    "tips": ["Pull to forehead", "External rotation", "Control movement"],
+    "exerciseType": "compound",
+    "subGroupId": "Middle"
+  },
+  {
+    "id": "back_upper_5",
+    "name": "Reverse-Grip EZ-Row",
+    "muscleGroup": "Back",
+    "equipment": ["ez bar"],
+    "description": "Row using reverse grip on EZ bar",
+    "tips": ["Keep elbows in", "Control movement", "Squeeze back"],
+    "exerciseType": "compound",
+    "subGroupId": "Middle"
+  },
+  {
+    "id": "back_lower_1",
+    "name": "Romanian Deadlift",
+    "muscleGroup": "Back",
+    "equipment": ["barbell"],
+    "description": "Hip-hinge movement focusing on hamstrings and lower back",
+    "tips": ["Keep back straight", "Hinge at hips", "Feel stretch"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Lower"
+  },
+  {
+    "id": "back_lower_2",
+    "name": "Barbell Good Morning",
+    "muscleGroup": "Back",
+    "equipment": ["barbell"],
+    "description": "Hip-hinge movement with bar on upper back",
+    "tips": ["Keep back straight", "Hinge at hips", "Control movement"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Lower"
+  },
+  {
+    "id": "back_lower_3",
+    "name": "Back Extension",
+    "muscleGroup": "Back",
+    "equipment": ["back extension bench"],
+    "description": "Extension movement on back extension bench",
+    "tips": ["Control movement", "Keep neutral spine", "Squeeze glutes"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lower"
+  },
+  {
+    "id": "back_lower_4",
+    "name": "Trap-Bar Deadlift",
+    "muscleGroup": "Back",
+    "equipment": ["trap bar"],
+    "description": "Deadlift using trap/hex bar",
+    "tips": ["Keep back straight", "Push through floor", "Control descent"],
+    "exerciseType": "compound",
+    "subGroupId": "Lower"
+  },
+  {
+    "id": "back_lower_5",
+    "name": "45° Hyperextension",
+    "muscleGroup": "Back",
+    "equipment": ["hyperextension bench"],
+    "description": "Back extension on 45-degree bench",
+    "tips": ["Control movement", "Keep neutral spine", "Feel the stretch"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lower"
+  }
+]

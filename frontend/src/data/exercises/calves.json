@@ -1,0 +1,105 @@
+[
+  {
+    "id": "calves_gastro_1",
+    "name": "Standing Calf Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["smith machine", "calf block"],
+    "description": "Calf raise while standing",
+    "tips": ["Full range of motion", "Pause at bottom", "Control movement"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Gastrocnemius"
+  },
+  {
+    "id": "calves_gastro_2",
+    "name": "Donkey Calf Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["donkey calf raise machine"],
+    "description": "Calf raise in bent-over position",
+    "tips": ["Keep legs straight", "Full range", "Control movement"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Gastrocnemius"
+  },
+  {
+    "id": "calves_gastro_3",
+    "name": "Leg Press Calf Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["leg press machine"],
+    "description": "Calf raise on leg press",
+    "tips": ["Keep legs straight", "Full range", "Control movement"],
+    "exerciseType": "isolation",
+    "subGroupId": "Gastrocnemius"
+  },
+  {
+    "id": "calves_gastro_4",
+    "name": "Smith-Machine Calf Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["smith machine"],
+    "description": "Calf raise using Smith machine",
+    "tips": ["Full range", "Control movement", "Pause at bottom"],
+    "exerciseType": "isolation",
+    "subGroupId": "Gastrocnemius"
+  },
+  {
+    "id": "calves_gastro_5",
+    "name": "Single-Leg Calf Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["bodyweight", "dumbbell"],
+    "description": "Calf raise on one leg",
+    "tips": ["Balance carefully", "Full range", "Control movement"],
+    "exerciseType": "isolation",
+    "subGroupId": "Gastrocnemius"
+  },
+  {
+    "id": "calves_soleus_1",
+    "name": "Seated Calf Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["seated calf raise machine"],
+    "description": "Calf raise while seated",
+    "tips": ["Keep knees bent", "Full range", "Control movement"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Soleus"
+  },
+  {
+    "id": "calves_soleus_2",
+    "name": "Machine Tibialis Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["tibialis machine"],
+    "description": "Raise toes while heel is planted",
+    "tips": ["Control movement", "Full range", "Keep heel down"],
+    "exerciseType": "isolation",
+    "subGroupId": "Soleus"
+  },
+  {
+    "id": "calves_soleus_3",
+    "name": "Single-Leg Seated Calf Raise",
+    "muscleGroup": "Calves",
+    "equipment": ["dumbbell"],
+    "description": "Single-leg calf raise while seated",
+    "tips": ["Keep knee bent", "Full range", "Control movement"],
+    "exerciseType": "isolation",
+    "subGroupId": "Soleus"
+  },
+  {
+    "id": "calves_soleus_4",
+    "name": "Hack-Machine Seated Calf",
+    "muscleGroup": "Calves",
+    "equipment": ["hack squat machine"],
+    "description": "Seated calf raise on hack squat machine",
+    "tips": ["Keep knees bent", "Full range", "Control movement"],
+    "exerciseType": "isolation",
+    "subGroupId": "Soleus"
+  },
+  {
+    "id": "calves_soleus_5",
+    "name": "Standing Soleus Machine",
+    "muscleGroup": "Calves",
+    "equipment": ["soleus machine"],
+    "description": "Standing calf raise with bent knees",
+    "tips": ["Keep knees bent", "Full range", "Control movement"],
+    "exerciseType": "isolation",
+    "subGroupId": "Soleus"
+  }
+]

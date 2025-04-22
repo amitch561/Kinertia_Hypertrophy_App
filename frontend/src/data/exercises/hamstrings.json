@@ -1,0 +1,56 @@
+
+[
+  {
+    "id": "hamstrings_1",
+    "name": "Seated Leg Curl",
+    "muscleGroup": "Hamstrings",
+    "equipment": ["leg curl machine"],
+    "description": "Curl weight using seated leg curl machine",
+    "tips": ["Keep back against pad",  "Control movement", "Full range"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Knee Flexion"
+  },
+  {
+    "id": "hamstrings_2",
+    "name": "Romanian Deadlift",
+    "muscleGroup": "Hamstrings",
+    "equipment": ["barbell"],
+    "description": "Hip-hinge movement focusing on hamstrings",
+    "tips": ["Keep back straight", "Feel hamstring stretch", "Control descent"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Hip Extension"
+  },
+  {
+    "id": "hamstrings_3",
+    "name": "Good Morning",
+    "muscleGroup": "Hamstrings",
+    "equipment": ["barbell"],
+    "description": "Hip-hinge movement with bar on upper back",
+    "tips": ["Keep back straight", "Control movement", "Feel stretch"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Hip Extension"
+  },
+  {
+    "id": "hamstrings_4",
+    "name": "Lying Leg Curl",
+    "muscleGroup": "Hamstrings",
+    "equipment": ["leg curl machine"],
+    "description": "Curl weight using lying leg curl machine",
+    "tips": ["Keep hips down", "Control movement", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Knee Flexion"
+  },
+  {
+    "id": "hamstrings_5",
+    "name": "Nordic Hamstring Curl",
+    "muscleGroup": "Hamstrings",
+    "equipment": ["bodyweight", "partner/anchor"],
+    "description": "Eccentric hamstring exercise",
+    "tips": ["Control descent", "Keep hips extended", "Use assistance if needed"],
+    "exerciseType": "isolation",
+    "subGroupId": "Knee Flexion"
+  }
+]

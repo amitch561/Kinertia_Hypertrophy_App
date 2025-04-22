@@ -1,0 +1,55 @@
+
+[
+  {
+    "id": "quads_1",
+    "name": "Hack Squat",
+    "muscleGroup": "Quads",
+    "equipment": ["hack squat machine"],
+    "description": "Squat movement on hack squat machine",
+    "tips": ["Keep back against pad", "Control descent", "Full depth"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Vastus Lateralis"
+  },
+  {
+    "id": "quads_2",
+    "name": "Pendulum Squat",
+    "muscleGroup": "Quads",
+    "equipment": ["pendulum squat machine"],
+    "description": "Squat using pendulum device",
+    "tips": ["Control the descent", "Keep torso upright", "Full range"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Vastus Lateralis"
+  },
+  {
+    "id": "quads_3",
+    "name": "Back Squat",
+    "muscleGroup": "Quads",
+    "equipment": ["barbell", "squat rack"],
+    "description": "Traditional barbell back squat",
+    "tips": ["Brace core", "Control descent", "Drive through heels"],
+    "exerciseType": "compound",
+    "subGroupId": "Vastus Lateralis"
+  },
+  {
+    "id": "quads_4",
+    "name": "Bulgarian Split Squat",
+    "muscleGroup": "Quads",
+    "equipment": ["dumbbell", "bench"],
+    "description": "Split squat with rear foot elevated",
+    "tips": ["Keep torso upright", "Control movement", "Equal distribution"],
+    "exerciseType": "compound",
+    "subGroupId": "Vastus Medialis"
+  },
+  {
+    "id": "quads_5",
+    "name": "Leg Press",
+    "muscleGroup": "Quads",
+    "equipment": ["leg press machine"],
+    "description": "Press weight using leg press machine",
+    "tips": ["Control descent", "Don't lock knees", "Full range"],
+    "exerciseType": "compound",
+    "subGroupId": "Vastus Lateralis"
+  }
+]

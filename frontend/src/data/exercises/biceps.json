@@ -1,0 +1,106 @@
+
+[
+  {
+    "id": "biceps_long_1",
+    "name": "Incline Dumbbell Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["dumbbell", "incline bench"],
+    "description": "Curl dumbbells while lying on an incline bench",
+    "tips": ["Keep upper arms perpendicular", "Full range of motion", "Control descent"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "biceps_long_2",
+    "name": "Bayesian Cable Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["cable machine"],
+    "description": "Cable curl with arms behind body",
+    "tips": ["Keep elbows back", "Control movement", "Full range"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "biceps_long_3",
+    "name": "Standing EZ-Bar Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["ez bar"],
+    "description": "Standing curl using EZ bar",
+    "tips": ["Keep elbows in", "Control movement", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "biceps_long_4",
+    "name": "Hammer Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["dumbbell"],
+    "description": "Curl with neutral grip",
+    "tips": ["Keep elbows in", "Control movement", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "biceps_long_5",
+    "name": "Alternating DB Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["dumbbell"],
+    "description": "Alternate dumbbell curls",
+    "tips": ["Keep form strict", "Control movement", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "biceps_short_1",
+    "name": "Preacher Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["preacher bench", "dumbbell", "barbell"],
+    "description": "Curl while arms are supported on preacher bench",
+    "tips": ["Keep upper arms on pad", "Control descent", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Short head"
+  },
+  {
+    "id": "biceps_short_2",
+    "name": "Spider Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["incline bench", "dumbbell"],
+    "description": "Curl while lying face down on incline bench",
+    "tips": ["Keep upper arms perpendicular", "Control movement", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Short head"
+  },
+  {
+    "id": "biceps_short_3",
+    "name": "High-Cable Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["cable machine"],
+    "description": "Curl using high cable position",
+    "tips": ["Keep elbows high", "Control movement", "Feel the squeeze"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Short head"
+  },
+  {
+    "id": "biceps_short_4",
+    "name": "Concentration Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["dumbbell"],
+    "description": "Single-arm curl while seated",
+    "tips": ["Keep elbow on inner thigh", "Control movement", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Short head"
+  },
+  {
+    "id": "biceps_short_5",
+    "name": "Cable EZ-Curl",
+    "muscleGroup": "Biceps",
+    "equipment": ["cable machine", "ez bar attachment"],
+    "description": "Cable curl using EZ bar attachment",
+    "tips": ["Keep elbows in", "Control movement", "Full range"],
+    "exerciseType": "isolation",
+    "subGroupId": "Short head"
+  }
+]

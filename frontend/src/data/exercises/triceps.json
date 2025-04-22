@@ -1,0 +1,105 @@
+[
+  {
+    "id": "triceps_long_1",
+    "name": "Overhead DB Extension",
+    "muscleGroup": "Triceps",
+    "equipment": ["dumbbell"],
+    "description": "Single dumbbell extension behind head",
+    "tips": ["Keep upper arms vertical", "Control descent", "Full lockout"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "triceps_long_2",
+    "name": "Cable Overhead Extension",
+    "muscleGroup": "Triceps",
+    "equipment": ["cable machine", "rope attachment"],
+    "description": "Overhead extension using rope attachment",
+    "tips": ["Keep upper arms vertical", "Control movement", "Full extension"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "triceps_long_3",
+    "name": "Skullcrusher",
+    "muscleGroup": "Triceps",
+    "equipment": ["ez bar", "barbell"],
+    "description": "Lying triceps extension to forehead",
+    "tips": ["Keep upper arms stable", "Control descent", "Full extension"],
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "triceps_long_4",
+    "name": "Close-Grip Bench Press",
+    "muscleGroup": "Triceps",
+    "equipment": ["barbell", "bench"],
+    "description": "Bench press with narrow grip",
+    "tips": ["Keep elbows tucked", "Control descent", "Full lockout"],
+    "exerciseType": "compound",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "triceps_long_5",
+    "name": "French Press",
+    "muscleGroup": "Triceps",
+    "equipment": ["dumbbell", "ez bar"],
+    "description": "Standing overhead triceps extension",
+    "tips": ["Keep upper arms vertical", "Control movement", "Full extension"],
+    "exerciseType": "isolation",
+    "subGroupId": "Long head"
+  },
+  {
+    "id": "triceps_lateral_1",
+    "name": "Rope Push-Down",
+    "muscleGroup": "Triceps",
+    "equipment": ["cable machine", "rope attachment"],
+    "description": "Pushdown using rope attachment",
+    "tips": ["Keep elbows in", "Control movement", "Split rope at bottom"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lateral head"
+  },
+  {
+    "id": "triceps_lateral_2",
+    "name": "V-Bar Push-Down",
+    "muscleGroup": "Triceps",
+    "equipment": ["cable machine", "v-bar attachment"],
+    "description": "Pushdown using V-bar attachment",
+    "tips": ["Keep elbows in", "Control movement", "Full extension"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lateral head"
+  },
+  {
+    "id": "triceps_lateral_3",
+    "name": "Single-Arm Reverse Grip Push-Down",
+    "muscleGroup": "Triceps",
+    "equipment": ["cable machine"],
+    "description": "Single-arm pushdown with supinated grip",
+    "tips": ["Keep elbow in", "Control movement", "Full extension"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lateral head"
+  },
+  {
+    "id": "triceps_lateral_4",
+    "name": "Bench Dip",
+    "muscleGroup": "Triceps",
+    "equipment": ["bench"],
+    "description": "Dips between benches",
+    "tips": ["Keep chest up", "Control descent", "Full range"],
+    "exerciseType": "compound",
+    "subGroupId": "Lateral head"
+  },
+  {
+    "id": "triceps_lateral_5",
+    "name": "Diamond Push-Up",
+    "muscleGroup": "Triceps",
+    "equipment": ["bodyweight"],
+    "description": "Push-up with hands close together",
+    "tips": ["Keep elbows in", "Control descent", "Full range"],
+    "exerciseType": "compound",
+    "subGroupId": "Lateral head"
+  }
+]

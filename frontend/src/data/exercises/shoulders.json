@@ -1,0 +1,157 @@
+[
+  {
+    "id": "shoulders_front_1",
+    "name": "Seated Dumbbell Overhead Press",
+    "muscleGroup": "Shoulders",
+    "equipment": ["dumbbell", "bench"],
+    "description": "Press dumbbells overhead while seated",
+    "tips": ["Keep core tight", "Full range of motion", "Control the descent"],
+    "exerciseType": "compound",
+    "subGroupId": "Front delts"
+  },
+  {
+    "id": "shoulders_front_2",
+    "name": "Landmine Press",
+    "muscleGroup": "Shoulders",
+    "equipment": ["landmine", "barbell"],
+    "description": "Press using a landmine attachment",
+    "tips": ["Maintain stable core", "Control the press", "Keep natural arc"],
+    "exerciseType": "compound",
+    "subGroupId": "Front delts"
+  },
+  {
+    "id": "shoulders_front_3",
+    "name": "Incline-Cable Front Raise",
+    "muscleGroup": "Shoulders",
+    "equipment": ["cable machine", "bench"],
+    "description": "Perform front raises using cables on an incline bench",
+    "tips": ["Control the movement", "Keep slight bend in elbows", "Feel the stretch"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Front delts"
+  },
+  {
+    "id": "shoulders_front_4",
+    "name": "Arnold Press",
+    "muscleGroup": "Shoulders",
+    "equipment": ["dumbbell"],
+    "description": "Rotating dumbbell press named after Arnold Schwarzenegger",
+    "tips": ["Start palms facing you", "Rotate as you press", "Control the movement"],
+    "exerciseType": "compound",
+    "subGroupId": "Front delts"
+  },
+  {
+    "id": "shoulders_front_5",
+    "name": "Barbell Overhead Press",
+    "muscleGroup": "Shoulders",
+    "equipment": ["barbell"],
+    "description": "Classic overhead press with a barbell",
+    "tips": ["Keep core tight", "Clear face quickly", "Full lockout"],
+    "exerciseType": "compound",
+    "subGroupId": "Front delts"
+  },
+  {
+    "id": "shoulders_lateral_1",
+    "name": "Dumbbell Lateral Raise",
+    "muscleGroup": "Shoulders",
+    "equipment": ["dumbbell"],
+    "description": "Raise dumbbells out to sides",
+    "tips": ["Keep slight bend in elbows", "Lead with elbows", "Control descent"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lateral delts"
+  },
+  {
+    "id": "shoulders_lateral_2",
+    "name": "Lean-Away Cable Lateral Raise",
+    "muscleGroup": "Shoulders",
+    "equipment": ["cable machine"],
+    "description": "Lateral raise while leaning away from cable machine",
+    "tips": ["Maintain lean angle", "Control movement", "Feel the stretch"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lateral delts"
+  },
+  {
+    "id": "shoulders_lateral_3",
+    "name": "Machine Lateral Raise",
+    "muscleGroup": "Shoulders",
+    "equipment": ["lateral raise machine"],
+    "description": "Lateral raises using a machine",
+    "tips": ["Adjust seat height", "Keep form strict", "Control the movement"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lateral delts"
+  },
+  {
+    "id": "shoulders_lateral_4",
+    "name": "Upright Row",
+    "muscleGroup": "Shoulders",
+    "equipment": ["barbell", "dumbbell"],
+    "description": "Pull weight up along body to shoulder height",
+    "tips": ["Keep elbows high", "Control the movement", "Moderate width grip"],
+    "exerciseType": "compound",
+    "subGroupId": "Lateral delts"
+  },
+  {
+    "id": "shoulders_lateral_5",
+    "name": "Cable Y-Raise",
+    "muscleGroup": "Shoulders",
+    "equipment": ["cable machine"],
+    "description": "Raise cables in a Y pattern",
+    "tips": ["Control movement", "Keep core tight", "Feel the contraction"],
+    "exerciseType": "isolation",
+    "subGroupId": "Lateral delts"
+  },
+  {
+    "id": "shoulders_rear_1",
+    "name": "Chest-Supported Rear-Delt Fly",
+    "muscleGroup": "Shoulders",
+    "equipment": ["dumbbell", "incline bench"],
+    "description": "Rear delt flyes while lying on an incline bench",
+    "tips": ["Keep chest supported", "Control movement", "Feel the stretch"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Rear delts"
+  },
+  {
+    "id": "shoulders_rear_2",
+    "name": "Reverse-Cable Fly (across-body)",
+    "muscleGroup": "Shoulders",
+    "equipment": ["cable machine"],
+    "description": "Cable flyes targeting rear delts",
+    "tips": ["Keep slight bend in elbows", "Control movement", "Feel stretch"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Rear delts"
+  },
+  {
+    "id": "shoulders_rear_3",
+    "name": "Face Pull",
+    "muscleGroup": "Shoulders",
+    "equipment": ["cable machine", "rope attachment"],
+    "description": "Pull rope attachment to face level",
+    "tips": ["Pull to forehead", "External rotation", "Control movement"],
+    "exerciseType": "compound",
+    "subGroupId": "Rear delts"
+  },
+  {
+    "id": "shoulders_rear_4",
+    "name": "Reverse Pec-Deck",
+    "muscleGroup": "Shoulders",
+    "equipment": ["pec deck machine"],
+    "description": "Rear delt flyes on pec deck machine",
+    "tips": ["Adjust seat height", "Keep form strict", "Control movement"],
+    "exerciseType": "isolation",
+    "subGroupId": "Rear delts"
+  },
+  {
+    "id": "shoulders_rear_5",
+    "name": "Single-Arm Bent-Over Row (rear-delt focus)",
+    "muscleGroup": "Shoulders",
+    "equipment": ["dumbbell"],
+    "description": "Single-arm row focusing on rear delt",
+    "tips": ["Higher elbow position", "Control movement", "Feel rear delt"],
+    "exerciseType": "compound",
+    "subGroupId": "Rear delts"
+  }
+]

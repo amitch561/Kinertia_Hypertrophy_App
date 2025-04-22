@@ -1,0 +1,158 @@
+[
+  {
+    "id": "chest_upper_1",
+    "name": "Incline Dumbbell Bench Press",
+    "muscleGroup": "Chest",
+    "equipment": ["dumbbell", "incline bench"],
+    "description": "Perform a dumbbell press while lying on an inclined bench",
+    "tips": ["Keep your core tight", "Control the weight", "Full range of motion"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Upper chest"
+  },
+  {
+    "id": "chest_upper_2",
+    "name": "Incline Dumbbell Fly",
+    "muscleGroup": "Chest",
+    "equipment": ["dumbbell", "incline bench"],
+    "description": "Perform a fly movement on an inclined bench",
+    "tips": ["Keep slight bend in elbows", "Focus on the stretch", "Control the movement"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Upper chest"
+  },
+  {
+    "id": "chest_upper_3",
+    "name": "Barbell Incline Bench Press",
+    "muscleGroup": "Chest",
+    "equipment": ["barbell", "incline bench"],
+    "description": "Press a barbell while lying on an inclined bench",
+    "tips": ["Keep your back firm against bench", "Control the descent", "Full range of motion"],
+    "exerciseType": "compound",
+    "subGroupId": "Upper chest"
+  },
+  {
+    "id": "chest_upper_4",
+    "name": "Reverse-Grip Smith Bench",
+    "muscleGroup": "Chest",
+    "equipment": ["smith machine"],
+    "description": "Press using a reverse grip on the Smith machine",
+    "tips": ["Keep wrists straight", "Control the movement", "Focus on upper chest"],
+    "exerciseType": "compound",
+    "subGroupId": "Upper chest"
+  },
+  {
+    "id": "chest_upper_5",
+    "name": "Low-to-High Cable Fly",
+    "muscleGroup": "Chest",
+    "equipment": ["cable machine"],
+    "description": "Perform a cable fly movement from low to high position",
+    "tips": ["Keep slight bend in elbows", "Control the movement", "Focus on the squeeze"],
+    "exerciseType": "isolation",
+    "subGroupId": "Upper chest"
+  },
+  {
+    "id": "chest_mid_1",
+    "name": "Flat Dumbbell Bench Press",
+    "muscleGroup": "Chest",
+    "equipment": ["dumbbell", "bench"],
+    "description": "Press dumbbells while lying on a flat bench",
+    "tips": ["Keep core tight", "Control the weights", "Press in slight arc"],
+    "exerciseType": "compound",
+    "subGroupId": "Mid chest"
+  },
+  {
+    "id": "chest_mid_2",
+    "name": "Flat Dumbbell Fly",
+    "muscleGroup": "Chest",
+    "equipment": ["dumbbell", "bench"],
+    "description": "Perform a fly movement on a flat bench",
+    "tips": ["Keep slight bend in elbows", "Feel the stretch", "Control the movement"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Mid chest"
+  },
+  {
+    "id": "chest_mid_3",
+    "name": "Barbell Bench Press",
+    "muscleGroup": "Chest",
+    "equipment": ["barbell", "bench"],
+    "description": "Classic barbell press on a flat bench",
+    "tips": ["Keep shoulders back", "Control the descent", "Full range of motion"],
+    "exerciseType": "compound",
+    "subGroupId": "Mid chest"
+  },
+  {
+    "id": "chest_mid_4",
+    "name": "Machine Chest Press",
+    "muscleGroup": "Chest",
+    "equipment": ["chest press machine"],
+    "description": "Press using a chest press machine",
+    "tips": ["Adjust seat height", "Keep back against pad", "Control the movement"],
+    "exerciseType": "compound",
+    "subGroupId": "Mid chest"
+  },
+  {
+    "id": "chest_mid_5",
+    "name": "Cable Press-Around",
+    "muscleGroup": "Chest",
+    "equipment": ["cable machine"],
+    "description": "Press the cable handles in an arcing motion",
+    "tips": ["Keep core tight", "Control the movement", "Focus on the squeeze"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Mid chest"
+  },
+  {
+    "id": "chest_lower_1",
+    "name": "Decline Barbell Bench Press",
+    "muscleGroup": "Chest",
+    "equipment": ["barbell", "decline bench"],
+    "description": "Press a barbell while lying on a decline bench",
+    "tips": ["Secure legs properly", "Control the descent", "Keep elbows tucked"],
+    "exerciseType": "compound",
+    "subGroupId": "Lower chest"
+  },
+  {
+    "id": "chest_lower_2",
+    "name": "Chest-Dip (Forward Lean)",
+    "muscleGroup": "Chest",
+    "equipment": ["dip bars"],
+    "description": "Perform dips with a forward lean to target lower chest",
+    "tips": ["Lean forward", "Control the descent", "Full range of motion"],
+    "recommended": true,
+    "exerciseType": "compound",
+    "subGroupId": "Lower chest"
+  },
+  {
+    "id": "chest_lower_3",
+    "name": "Decline Cable Fly",
+    "muscleGroup": "Chest",
+    "equipment": ["cable machine"],
+    "description": "Perform a decline fly movement with cables",
+    "tips": ["Keep slight bend in elbows", "Control the movement", "Focus on lower chest"],
+    "recommended": true,
+    "exerciseType": "isolation",
+    "subGroupId": "Lower chest"
+  },
+  {
+    "id": "chest_lower_4",
+    "name": "Decline Dumbbell Press",
+    "muscleGroup": "Chest",
+    "equipment": ["dumbbell", "decline bench"],
+    "description": "Press dumbbells while lying on a decline bench",
+    "tips": ["Secure position properly", "Control the weights", "Keep elbows tucked"],
+    "exerciseType": "compound",
+    "subGroupId": "Lower chest"
+  },
+  {
+    "id": "chest_lower_5",
+    "name": "Hammer Strength Decline Press",
+    "muscleGroup": "Chest",
+    "equipment": ["hammer strength machine"],
+    "description": "Press using a Hammer Strength decline machine",
+    "tips": ["Adjust seat properly", "Control the movement", "Focus on lower chest"],
+    "exerciseType": "compound",
+    "subGroupId": "Lower chest"
+  }
+]
